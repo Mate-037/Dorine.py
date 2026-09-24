@@ -17,4 +17,5 @@ print(type(is_adult))
 print(numbers)
 print(type(numbers))
 print(student)
-print(type(student))    xcgfdgfhghdgsdhjchj
+print(type(student))   
+mate 
